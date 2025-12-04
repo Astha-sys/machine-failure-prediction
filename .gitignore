@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Temp files
+tempCodeRunnerFile.py
+
+# Not needed for deployment
+model_training.py
+generate_dataset.py
+eda_analysis.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
